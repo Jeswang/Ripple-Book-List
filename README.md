@@ -1,12 +1,15 @@
-Ripple_Book_List
+Ripple Book List
 ================
 
-## Screenshat
+## Screenshot
+
+![Screenshot](https://raw.github.com/Jeswang/Ripple-Book-List/master/screenshot.png)
 
 ## What is this?
-Sometimes, the website is so slow, so I want to watch ripple's price in command line.
 
-And parsing part comes from [ripple/ripple-watch](https://github.com/ripple/ripple-watch).
+If you feel the website is slow, you can try using this to watch ripple's books in a clean terminal. 
+
+[ripple/ripple-lib](https://github.com/ripple/ripple-lib) is a very clean library. I read the OrderBook part and just write several lines. Parsing related code comes from [ripple/ripple-watch](https://github.com/ripple/ripple-watch).
 
 ## Set up instructions
 
