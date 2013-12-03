@@ -13,8 +13,5 @@ If you feel the website is slow, you can try using this to watch ripple's books 
 
 ## Set up instructions
 
-    npm install ripple-lib blessed
+    npm install ripple-lib blessed extend
     node show_books.js
-
-    
-
